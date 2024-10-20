@@ -4,8 +4,7 @@ layout: home
 
 hero:
   name: "熊猫的书窝"
-  text: "温馨的小房间"
-  tagline: My great project tagline
+  tagline: 温馨的小房间
   actions:
     - theme: brand
       text: Markdown Examples
